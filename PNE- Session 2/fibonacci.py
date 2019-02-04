@@ -1,4 +1,4 @@
-# A fibonacci series is a series such that every number is the sum of the two proceding ones.
+# A fibonacci series is a series such that every number is the sum of the two proceding ones
 
 our_number = int(input('Enter a number to proceed: '))
 
