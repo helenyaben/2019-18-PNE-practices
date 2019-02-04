@@ -6,4 +6,4 @@ def sum(n):
         print(sum)
         num += 1
 
-print(sum(4))
+sum(5)
