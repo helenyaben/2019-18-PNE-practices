@@ -1,6 +1,6 @@
 # We are gonna find a DNA sequence, measure its length and count the basis.
 
-seq = raw_input('Enter a valid sequence to proceed: ')
+seq = input('Enter a valid sequence to proceed: ')
 
 seq = seq.upper()
 
