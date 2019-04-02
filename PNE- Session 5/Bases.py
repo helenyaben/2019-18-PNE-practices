@@ -1,10 +1,3 @@
-
-seq1 = raw_input('Enter a valid sequence to proceed: ')
-
-seq2 = raw_input('Enter a second valid sequence to proceed: ')
-
-print('')
-
 def count_basis(seq):
 
     seq = seq.upper()
@@ -51,11 +44,3 @@ def count_basis(seq):
     print('Counter: {}'.format(count_u))
     print('Percentage: {} %'.format(percentage_u))
 
-
-print('Sequence 1 is {} basis length'.format(len(seq1)))
-count_basis(seq1)
-
-print('')
-
-print('Sequence 2 is {} basis length'.format(len(seq2)))
-count_basis(seq2)
