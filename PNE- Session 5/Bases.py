@@ -1,3 +1,6 @@
+
+# Ths is gonna be the module we're going to get the functions from. We could also get classes as well.
+
 def count_basis(seq):
 
     seq = seq.upper()
