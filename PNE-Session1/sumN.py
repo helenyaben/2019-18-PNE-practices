@@ -5,4 +5,3 @@ def sum(n):
         sum = sum + num
         print(sum)
         num += 1
-
