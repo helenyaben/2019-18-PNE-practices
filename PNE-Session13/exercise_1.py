@@ -38,7 +38,7 @@ class TestHandler(http.server.BaseHTTPRequestHandler):
             self.send_error(404)
             return
 
-        # Now we elaborate the response:
+        # Now we elaborate the response with the class methods:
 
         self.send_response(200)
         self.send_header('Content-Type', 'text/html')
