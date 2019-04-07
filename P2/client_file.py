@@ -81,7 +81,7 @@ class Seq():
 
 # SERVER IP, PORT
 
-IP = "192.168.1.36"
+IP = "192.168.0.195"
 PORT = 8081
 
 # First, create the socket
