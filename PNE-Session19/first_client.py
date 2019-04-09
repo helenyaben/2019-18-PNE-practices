@@ -9,7 +9,7 @@ https://stackoverflow.com/questions/40684543/how-to-make-python-use-ca-certifica
 # Example of accessing to the RandomCAT service for getting an URL
 # of a random image of a CAT. This clients just print it on
 # the console
-import certifi
+
 import http.client
 import json
 

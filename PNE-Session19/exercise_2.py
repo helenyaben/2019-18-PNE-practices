@@ -2,6 +2,7 @@ import http.client
 import json
 import termcolor
 import sys
+
 print()
 termcolor.cprint('REQUEST 1: WOEID NUMBER', 'yellow')
 print()
